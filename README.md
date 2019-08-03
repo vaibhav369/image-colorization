@@ -14,3 +14,12 @@ This section describes how someone curious enough about this project can get the
 
 ### Prerequisites
 
+For running the project, the system must have Python3 installed. Also, the project uses some standard python libraries like numpy, keras, tensorflow. The repository, however, does not contain the entire data that was used for training because of Github's size limit, and also to keep the repository light. 
+
+### Description
+
+There are two IPython notebooks in the project :- image-colorization.ipynb and image-colorization-tester.ipynb. Both are nearly identical. I myself use the first to train the model. However, for testing and checking how the trained models respond, I go to the second one.
+
+### Contributing
+
+Contributions from anyone interested in this project are welcome. As mentioned above, the repo does not contain full training data used by the project. For getting the training data, please write to me at vaibhav.gupta.personal@gmail.com.
