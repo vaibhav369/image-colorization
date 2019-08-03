@@ -25,6 +25,10 @@ For running the project, the system must have Python3 installed. Also, the proje
 
 There are two IPython notebooks in the project :- image-colorization.ipynb and image-colorization-tester.ipynb. Both are nearly identical. I myself use the first to train the model. However, for testing and checking how the trained models respond, I go to the second one.
 
+### Future Plans for Work
+
+After having gone through literature in this field, it seems that the best way to go around this problem is GANs. Using a mean-squared error on such problems discourages sharpness and high contrast colors in output images because it is an average of many different scenarios. However, GANs do not face this problem since they can solve multiodal output problems. 
+
 ### Contributing
 
 Contributions from anyone interested in this project are welcome. As mentioned above, the repo does not contain full training data used by the project. For getting the training data, please write to me at vaibhav.gupta.personal@gmail.com.
