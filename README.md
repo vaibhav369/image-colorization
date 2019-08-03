@@ -8,8 +8,10 @@ should directly carry on to more useful cases, like colorizing historical photog
 and comics is a very hard and work-intensive tasks. Such an application, if it reaches current human level, can have many real-world
 use cases.
 
-Here is the current status of the project.
+The following images show performance of model at its current training
 ![Left=(Black-White Input), Middle=(Colored Target), Right=(Predicted by Network)](https://github.com/vaibhav369/image-colorization/blob/master/assets/img1.PNG)
+![Left=(Black-White Input), Middle=(Colored Target), Right=(Predicted by Network)](https://github.com/vaibhav369/image-colorization/blob/master/assets/img2.PNG)
+![Left=(Black-White Input), Middle=(Colored Target), Right=(Predicted by Network)](https://github.com/vaibhav369/image-colorization/blob/master/assets/img3.PNG)
 
 ## Getting Started
 
