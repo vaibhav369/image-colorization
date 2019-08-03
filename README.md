@@ -8,6 +8,9 @@ should directly carry on to more useful cases, like colorizing historical photog
 and comics is a very hard and work-intensive tasks. Such an application, if it reaches current human level, can have many real-world
 use cases.
 
+Here is the current status of the project.
+[Left=(Black-White Input), Middle=(Colored Target), Right=(Predicted by Network)]https://github.com/vaibhav369/image-colorization/blob/master/assets/img1.PNG
+
 ## Getting Started
 
 This section describes how someone curious enough about this project can get themselves started on the project.
