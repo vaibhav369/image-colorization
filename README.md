@@ -9,7 +9,7 @@ and comics is a very hard and work-intensive tasks. Such an application, if it r
 use cases.
 
 Here is the current status of the project.
-![Left=(Black-White Input), Middle=(Colored Target), Right=(Predicted by Network)]https://github.com/vaibhav369/image-colorization/blob/master/assets/img1.PNG
+![Left=(Black-White Input), Middle=(Colored Target), Right=(Predicted by Network)](https://github.com/vaibhav369/image-colorization/blob/master/assets/img1.PNG)
 
 ## Getting Started
 
