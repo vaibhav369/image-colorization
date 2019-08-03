@@ -23,7 +23,7 @@ For running the project, the system must have Python3 installed. Also, the proje
 
 ### Description
 
-There are two IPython notebooks in the project :- image-colorization.ipynb and image-colorization-tester.ipynb. Both are nearly identical. I myself use the first to train the model. However, for testing and checking how the trained models respond, I go to the second one.
+There are two IPython notebooks in the project :- image-colorization.ipynb and image-colorization-tester.ipynb. Both are nearly identical. I myself use the first to train the model. However, for testing and checking how the trained models respond, I go to the second one. You will notice that the jupyter notebooks start with importing google.colab. That is because the project was done on google colab, which is a fantastic resource created by google for practitioners like me. However, if someone wishes to do the project at their local machine, they can always go ahead without the first and second code blocks in the notebook.
 
 ### Future Plans for Work
 
